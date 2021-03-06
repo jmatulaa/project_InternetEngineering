@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a7bca44-7c0e-4b38-8dc3-45f66fc09d15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lzBtwmFV9XZZndL1D0FIt2wfJR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.index.js">
+    <configuration name="20201123121530_game.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/migrations/20201123121530_game.js" working-dir="$PROJECT_DIR$/src/migrations">
+      <method v="2" />
+    </configuration>
+    <configuration name="20201213124937_relations.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/migrations/20201213124937_relations.js" working-dir="$PROJECT_DIR$/src/migrations">
+      <method v="2" />
+    </configuration>
+    <configuration name="genre.controller.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/src/api/genre/genre.controller.js" working-dir="$PROJECT_DIR$/src/api/genre">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+        <item itemvalue="Node.js.20201213124937_relations.js" />
+        <item itemvalue="Node.js.genre.controller.js" />
+        <item itemvalue="Node.js.20201123121530_game.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a7bca44-7c0e-4b38-8dc3-45f66fc09d15" name="Default Changelist" comment="" />
+      <created>1608590258072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608590258072</updated>
+      <workItem from="1608590259186" duration="4250000" />
+      <workItem from="1609242134606" duration="11538000" />
+      <workItem from="1609258887527" duration="15043000" />
+      <workItem from="1610736824432" duration="11177000" />
+      <workItem from="1610981581593" duration="65000" />
+      <workItem from="1611003860743" duration="3936000" />
+      <workItem from="1611054964998" duration="126000" />
+      <workItem from="1611056823008" duration="1117000" />
+      <workItem from="1611137549131" duration="8891000" />
+      <workItem from="1611158979436" duration="1356000" />
+    </task>
+    <task id="LOCAL-00001" summary="naming changes">
+      <created>1611153147425</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611153147425</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="naming changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="naming changes" />
+  </component>
+</project>
